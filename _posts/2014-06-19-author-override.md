@@ -5,8 +5,8 @@ description: "An article to test overriding the default site author."
 category: articles
 tags: [sample-post, readability, test]
 author:
-  name: Billy Rick
-  avatar: bio-photo-alt.jpg
+  name: Howie Wang
+  avatar: happyAround.jpg
 comments: true
 share: true
 ---
