@@ -25,7 +25,7 @@ By Howie | 2014年7月3日
 同名微信平台：![](../images/HowieiBook2D.jpg)
 
 <figure>
-    <a href="../images/HowieiBook2D.jpg"><img src="HowieiBook2D.jpg" alt="image"></a>
+    <a href="../images/HowieiBook2D.jpg"><img src="../images/HowieiBook2D.jpg" alt="image"></a>
     <figcaption>微信公共号：howieibook</figcaption>
 </figure>
 
