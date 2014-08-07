@@ -25,7 +25,7 @@ By Howie | 2014年7月3日
 同名微信平台：
 
 <figure>
-    <a href="http://b.hiphotos.bdimg.com/album/s%3D1600%3Bq%3D90/sign=dd7acf99a7c27d1ea1263fc22be5961f/242dd42a2834349b0a7e13b8caea15ce36d3be96.jpg"><img src="http://b.hiphotos.bdimg.com/album/s%3D1600%3Bq%3D90/sign=dd7acf99a7c27d1ea1263fc22be5961f/242dd42a2834349b0a7e13b8caea15ce36d3be96.jpg" alt="image"></a>
+    <a href="../images/howieibook2d.jpg"><img src="../images/howieibook2d.jpg" alt="image"></a>
     <figcaption>微信公共号：howieibook</figcaption>
 </figure>
 
