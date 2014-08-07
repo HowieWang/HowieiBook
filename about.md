@@ -15,6 +15,7 @@ About Me
 浩爷爱读书导语
 -----
 By Howie | 2014年7月3日 
+
 首先，欢迎您的大驾光临！
 
 这是本人的读书笔记分享站点，主要目的为：
@@ -25,7 +26,7 @@ By Howie | 2014年7月3日
 
 <figure class="half">
     <img src="/howieibook/images/HowieiBook2D.jpg" alt="image">
-   <figcaption>Caption describing these two images.</figcaption>
+   <figcaption>微信公共号：howieibook</figcaption>
 </figure>
  
 具体计划：
