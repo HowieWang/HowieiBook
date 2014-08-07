@@ -25,23 +25,10 @@ By Howie | 2014年7月3日
 同名微信平台：
 
 <figure>
-    <img src="/howieibook/images/HowieiBook2D.jpg" alt="image">
-   <figcaption>微信公共号：howieibook</figcaption>
-</figure>
- 
-
-<figure>
-    <a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg" alt="image"></a>
-    <figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+    <a href="https://mp.weixin.qq.com/misc/getqrcode?fakeid=3076854307&token=6298901&style=1"><img src="https://mp.weixin.qq.com/misc/getqrcode?fakeid=3076854307&token=6298901&style=1" alt="image"></a>
+    <figcaption>微信公共号：howieibook</figcaption>
 </figure>
 
-{% highlight html %}
-<figure class="half">
-    <img src="/images/image-filename-1.jpg" alt="image">
-    <img src="/images/image-filename-2.jpg" alt="image">
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
-{% endhighlight %}
 
 具体计划：
 -----
