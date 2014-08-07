@@ -6,7 +6,7 @@ category: articles
 tags: [sample-post, readability, test]
 author:
   name: Howie Wang
-  avatar: happyAround.jpg
+  avatar: HappyAround.jpg
 comments: true
 share: true
 ---
