@@ -35,6 +35,14 @@ By Howie | 2014年7月3日
     <figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
+{% highlight html %}
+<figure class="half">
+    <img src="/images/image-filename-1.jpg" alt="image">
+    <img src="/images/image-filename-2.jpg" alt="image">
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
+{% endhighlight %}
+
 具体计划：
 -----
 >1-每月读至少一本书，在这里记录读书笔记，写下阅读感悟。
