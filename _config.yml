@@ -1,6 +1,6 @@
 title:            HowieiBook
 description:      Describe your website here.
-logo:             site-logo.png
+logo:             HappyAround.jpg
 disqus_shortname:
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -10,7 +10,7 @@ search:           true
 # Owner/author information
 owner:
   name:           HowieWang
-  avatar:         bio-photo.jpg
+  avatar:         HowieiBook.jpg
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
