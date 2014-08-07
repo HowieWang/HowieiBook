@@ -24,11 +24,17 @@ By Howie | 2014年7月3日
 
 同名微信平台：
 
-<figure class="half">
+<figure>
     <img src="/howieibook/images/HowieiBook2D.jpg" alt="image">
    <figcaption>微信公共号：howieibook</figcaption>
 </figure>
  
+
+<figure>
+    <a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg" alt="image"></a>
+    <figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+</figure>
+
 具体计划：
 -----
 >1-每月读至少一本书，在这里记录读书笔记，写下阅读感悟。
