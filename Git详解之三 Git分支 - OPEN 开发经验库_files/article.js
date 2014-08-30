@@ -1,0 +1,2 @@
+/*! 2693 2013-9-17 14:8:14 */
+requirejs(["kit/cross_msg","pjt/content_ex/pl/article/save_c"],function(e,t){var n=t(),r=n.render(),o=document.getElementById("page");o&&o.appendChild(r),e.listenMessage(function(e){"PUSH_ARTICLE_CONTENT"===e.data.cmd?(delete e.data.cmd,n.saveRet(e.data)):"SET_BDSTOKEN"===e.data.cmd&&n.setBdstoken(e.data.bdstoken)}),e.postMessage(parent,{cmd:"ARTICLE_PAGE_READY"})});

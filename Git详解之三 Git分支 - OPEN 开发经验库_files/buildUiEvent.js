@@ -1,0 +1,2 @@
+/*! 1252 2013-9-17 14:8:14 */
+define(function(){var e=function(e,t){if(e){var n,r;for(n=0,r=e.length;r>n;++n)t(e[n],n)}};return function(t,n,r,o,i){var a=!1;(1===t.nodeType||9===t.nodeType)&&(a=!0);var s=[];return e(n,function(e){var n="";e[2]||(n=e[2]=(e[0]+e[1]).replace(/#/g,".__").replace(/\._/g,".").match(/[_\w]+/g).join("_")),e[2]instanceof Function&&(e[3]=e[2]),e[3]||(e[3]=function(e){var t;if(i){var a=o.Event(n);a.originalEvent=e,t=o(i).triggerHandler(a,e)}t!==!1&&r&&r[n]&&r[n].call(this,e)}),a?o(t).on(e[0],e[1],e[3]):o(t[e[1]]).on(e[0],e[3]),s.push(e)}),s}});

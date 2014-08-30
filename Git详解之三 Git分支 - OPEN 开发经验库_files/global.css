@@ -1,0 +1,10 @@
+/*! 3977 2013-9-17 14:8:14 */
+@import url(/css/pjt/content_ex/common/base.css?v=212);
+@import url(/css/comp/cang_pc/ui.css?v=4409);
+@import url(/css/pjt/content_ex/common/savingActivity.css?v=2071);
+@import url(/css/pjt/content_ex/common/loadingActivity.css?v=3995);
+body {background: rgba(255,255,255,0.95); filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#f2ffffff,endcolorstr=#f2ffffff); font-family: '微软雅黑', Tahoma, Arial, Simsun;}
+input {font-family: '微软雅黑', Tahoma, Arial, Simsun;}
+a {text-decoration: none;}
+a:link, a:visited {color: #007ac6;}
+a:hover, a:active {color: #ec5c52;}

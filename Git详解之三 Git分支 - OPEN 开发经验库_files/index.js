@@ -1,0 +1,2 @@
+/*! 4897 2013-11-14 12:25:55 */
+requirejs(["kit/cross_msg","lib/jh"],function(e,t){var n={},i={},r=function(){n.bindUiEvent()};return n.bindUiEvent=function(){t.addEvent(t.e("#saveResBtn"),"click",function(){e.postMessage(parent,{cmd:"GO_SAVE_RES"})}),t.addEvent(t.e("#saveTextBtn"),"click",function(){e.postMessage(parent,{cmd:"GO_SAVE_TEXT"})}),t.addEvent(t.e("#savePicBtn"),"click",function(){e.postMessage(parent,{cmd:"GO_SAVE_PIC"})}),e.postMessage(parent,{cmd:"BDSTOKEN",value:t.e("#bdstoken").value})},r(),i});
