@@ -1,3 +1,8 @@
+---
+layout: page
+title: "c++相关技术"
+---  
+
 ###单元测试
 
 * [catch-github](https://github.com/philsquared/Catch)
