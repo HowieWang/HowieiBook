@@ -15,7 +15,7 @@ image:
 
 #浩爷导航
 
-##[c++](./cpp.md)
+* [c++]({ site.url }}/gps/cpp.html)
 
 ###单元测试
 
