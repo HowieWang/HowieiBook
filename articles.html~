@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /articles/
-title:  所有文章
-description: "按时间排列啦！"
+title: Articles
+description: "An archive of posts sorted by date."
 ---
 
 <ul class="post-list">
