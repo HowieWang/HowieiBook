@@ -17,5 +17,5 @@ image:
 
 **突然发现已经离不开github和markdown了，囧**
 
-* [c++](./cpp.html)
+<div markdown="0"><a href="./cpp.html" class="btn">C++ 技术汇总</a></div>
 
