@@ -3,7 +3,7 @@ layout: page
 title: "c++相关技术"
 ---  
 
-###单元测试
+###一 单元测试
 
 * [catch-github](https://github.com/philsquared/Catch)
 * [googletest官网](https://code.google.com/p/googletest/)
@@ -13,8 +13,8 @@ title: "c++相关技术"
 * [unittest-cpp](http://unittest-cpp.sourceforge.net/)
 * [VisualStudio.TestTools](http://msdn.microsoft.com/en-us/library/hh694604.aspx)
 
-并行计算
----
+###二 并行计算
+
 1.各种资料
 
 * [并行计算简介](http://www.cnblogs.com/wasd/archive/2009/04/07/1430859.html)
