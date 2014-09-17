@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "day-36- 基本会话+语法-我是中国人"
+title:"day-36- 基本会话+语法-我是中国人"
 description: " "
 category: articles
 tags: [韩语, 100天计划]
@@ -20,4 +20,4 @@ share: true
 <figure >
     <a href="../../images/HowieiBook2D.jpg"><img src="../../images/HowieiBook2D.jpg" alt="image"></a>
     <figcaption> 欢迎关注 HowieiBook, 回复“h”查看帮助</figcaption>
-</figure>
+</figure>s
